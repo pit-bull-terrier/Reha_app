@@ -99,3 +99,7 @@ main：送るブランチ名
 > ~$ git branch
 - ブランチの変更
 > ~$ git switch ブランチ名
+
+
+練習
+
