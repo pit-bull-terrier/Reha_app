@@ -28,6 +28,9 @@
 - cat ~/.ssh/id_ed25519.pub
 - GithubにSSH keys登録
 
+### 1. Collabrator
+### 2. Fork→clone
+
 ## GitHubでリポジトリを作成する
 省略
 
